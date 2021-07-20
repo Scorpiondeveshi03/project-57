@@ -1,0 +1,26 @@
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+body {
+    text-align: center;
+
+}
+
+.s1 {
+    background: linear-gradient(#a4ffd8 10%,#00d4ff 90%);
+    font-size: 30px;
+}
+
+.hello {
+    font-family: cursive;
+    color:deeppink;
+    font-weight:bold;
+    text-shadow: 2px 2px #ffd60a;
+}
+
+.hobbies {
+    color:rgb(255, 168, 133);
+}
